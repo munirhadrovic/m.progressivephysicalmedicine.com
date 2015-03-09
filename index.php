@@ -124,7 +124,7 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-            <h1>Powered by <a href="http://www.mobilegrows.com" rel="external">MOBILEGROWS</a><a href="http://www.m.progressivephysicalmedicine.com/" rel="external"> | Classic Site</a></h1>
+            <h1>Powered by <a href="http://www.mobilegrows.com" rel="external">Mobilegrows</a><a href="http://www.m.progressivephysicalmedicine.com/" rel="external"> | Classic Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -213,23 +213,23 @@
 
 
 				<div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a>
+					<div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Meet Us</a>
 					</div>
 				</div>
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a>
+                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a>
                   </div>
               </div>
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a>
+                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a>
                   </div>
               </div>
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a>
+                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">What to expect</a>
                   </div>
               </div>
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a>
+                  <div class="ui-block-a buttons-semir "><a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Faqs</a>
                   </div>
               </div>
               <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
@@ -248,16 +248,16 @@
 					<section id="navigation-menu">
 						<ul id="menu" class="ime">
 
-							<li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-							<li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
+							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
+                            <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
 							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
-					<img src="img/web-design/web-design01.jpg" alt="SLider" class="images-mobile">	   
-					
+                    <p> This is only a <strong>PREVIEW</strong> version of Your Mobile Website </p>
+                    <p> Please contact our officiali Sales Representative for <strong>Full Functional Version</strong> </p>
 
 				</div>
 
@@ -266,132 +266,10 @@
 				
 		</div>
 		
-		<!-- meet ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-
-        <div data-role="page" id="meet" data-theme="<?php echo $theme ?>">
-            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
-                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                    <section id="navigation-menu1" >
-                        <ul id="menu1" class="ime">
-
-                            <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                            <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
-                        </ul>
-                    </section>
-                    <h2>Meet Us</h2>
-                    <p>Our highly qualified Physicians and Clinical Staff provide care to a wide range of patients for a variety of musculoskeletal conditions in our 5,500 square-feet of welcoming office space. Our Physicians undergo rigorous training in manual therapy and rehabilitative techniques that is above and beyond the standard professional requirement, using the most up-to-date research and treatment approaches available.</p>
 
 
-                </div>
-
-            </div>
 
 
-        </div>
-        <!--conditions ///-->
-
-        <div data-role="page" id="conditions" data-theme="<?php echo $theme ?>">
-            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
-                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                    <section id="navigation-menu2">
-                        <ul id="menu2" class="ime">
-
-                            <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                            <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
-                        </ul>
-                    </section>
-                    <img src="img/web-design/web-design01.jpg" alt="SLider" class="images-mobile">
-
-
-                </div>
-
-            </div>
-
-
-        </div>
-        <!-- therapies ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-
-        <div data-role="page" id="therapies" data-theme="<?php echo $theme ?>">
-            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
-                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                    <section id="navigation-menu3">
-                        <ul id="menu3" class="ime">
-
-                            <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                            <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
-                        </ul>
-                    </section>
-                    <img src="img/web-design/web-design01.jpg" alt="SLider" class="images-mobile">
-
-
-                </div>
-
-            </div>
-
-
-        </div>
-        <!-- what ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-
-        <div data-role="page" id="what" data-theme="<?php echo $theme ?>">
-            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
-                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                    <section id="navigation-menu4">
-                        <ul id="menu4" class="ime">
-
-                            <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                            <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
-                        </ul>
-                    </section>
-                    <img src="img/web-design/web-design01.jpg" alt="SLider" class="images-mobile">
-
-
-                </div>
-
-            </div>
-
-
-        </div>
-        <!-- faqs ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-
-        <div data-role="page" id="faqs" data-theme="<?php echo $theme ?>">
-            <div data-role="main" class="ui-content" data-theme="<?php echo $theme ?>">
-                <div class="ui-grid-solo" data-theme="<?php echo $theme ?>">
-                    <section id="navigation-menu5">
-                        <ul id="menu5" class="ime">
-
-                            <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                            <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                            <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                            <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                            <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                            <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
-                        </ul>
-                    </section>
-                    <img src="img/web-design/web-design01.jpg" alt="SLider" class="images-mobile">
-
-
-                </div>
-
-            </div>
-
-
-        </div>
 		<!-- contact us ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 
 		
@@ -401,12 +279,12 @@
 					<section id="navigation-menu6" >
 							<ul id="menu6" class="ime">
 
-                                <li><a href="#meet" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
-                                <li><a href="#conditions" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
-                                <li><a href="#therapies" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
-                                <li><a href="#what" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
-                                <li><a href="#faqs" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
-                                <li><a href="#contcatform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Meet Us</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Conditions we treat</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Theraapies we offer</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">What to expect</a></li>
+                                <li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Faqs</a></li>
+                                <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact Us</a></li>
 							</ul>
 					</section>
 					<div>	
